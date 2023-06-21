@@ -1,7 +1,7 @@
 import { defineConfig } from 'hhxpress'
 
 export default defineConfig({
-  title: 'HHX的网站',
+  title: 'HHXPRESS',
   themeConfig: {
     nav: {
       title: 'HHXPRESS',
